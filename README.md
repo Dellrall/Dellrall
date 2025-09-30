@@ -3,7 +3,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dellrall&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dellrall&show_icons=true&theme=radical)
 
 
 ## Activity
